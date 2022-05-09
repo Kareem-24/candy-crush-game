@@ -1,0 +1,19 @@
+.app {
+  display: flex;
+  padding: 10px;
+ 
+}
+
+.game-board {
+  width: 480px;
+  height: 480px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.game-board img {
+  width : 60px;
+  height: 60px ;
+}
